@@ -72,7 +72,7 @@ li::marker{
     padding: 1.6rem;
     border-radius: 20px;
 }
-.container .brief article h4{
+.container .brief article p{
     color: var(--Dark_Raspberry);
     margin: 0.75rem;
 }
