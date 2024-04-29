@@ -61,7 +61,9 @@ li::marker{
 .container .nutritions{
     padding: 1.5rem;
 }
-
+.container .brief h1{
+    color: var(--Dark_Charcoal);
+}
 .container .brief p{
     margin: 1.25rem 0;
 }
