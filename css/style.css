@@ -99,6 +99,10 @@ li::marker{
     color: var(--Nutmeg);
     font-weight: 800;
 }
+.container .nutritions ul .no-border,
+.container .nutritions ul .qty:last-child{
+    border: none;
+}
 @media (max-width: 570px) {
     body{
         line-height: 2rem;
